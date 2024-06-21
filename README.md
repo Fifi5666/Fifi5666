@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 🧶👩‍💻👋
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Fifi5666&theme=gruvbox-duo" alt="GitHub Streak" /></a>
 
 <!--
 **Fifi5666/Fifi5666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
