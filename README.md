@@ -1,6 +1,8 @@
 ## Hi there 🧶👩‍💻👋
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Fifi5666&theme=gruvbox-duo" alt="GitHub Streak" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fifi5666)](https://github.com/Fifi5666/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fifi5666)](https://github.com/Fifi5666/github-readme-stats)
 
 <!--
 **Fifi5666/Fifi5666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
